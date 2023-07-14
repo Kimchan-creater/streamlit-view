@@ -17,7 +17,7 @@ st.write("백석고는 일산 일반고들 중 내신이 어렵기로 유명하�
 st.write("결론 : 모든 학교는 비슷하게 부정적인 평을 받는다. 백석고를 싫어하지 말자.")
 
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import pandas as pd
 
